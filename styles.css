@@ -100,7 +100,7 @@ nav a.active {
 
 .cross,
 .menu {
-    height: 2rem;
+    height: 1.5rem;
     width: 3rem;
     margin: 1rem;
     fill: #fff;
@@ -111,13 +111,12 @@ nav a.active {
 }
 
 .menu {
-    height: 1.5rem;
     display: none;
     margin: 0;
 }
 
 .dropdown a {
-    font-size: 1.7rem;
+    font-size: 1.3rem;
 }
 
 .dropdown li a {
