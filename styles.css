@@ -40,7 +40,7 @@ a {
     transition: transform 0.3s ease-in-out;
 }
 
-nav li:hover{
+nav li:hover {
     transform: scale(1.1);
 }
 
@@ -700,7 +700,8 @@ address {
         margin-bottom: 3rem;
     }
 
-    .skills-container, .project-sec {
+    .skills-container,
+    .project-sec {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
@@ -773,6 +774,7 @@ address {
         height: 20.5rem;
         width: 20.5rem;
     }
+
     .img-box .img-sec img {
         top: 0;
         height: 100%;
@@ -784,7 +786,7 @@ address {
         margin-left: 1rem;
     }
 
-    #about{
+    #about {
         margin-bottom: 4rem;
     }
 
@@ -792,7 +794,7 @@ address {
         margin-bottom: 8rem;
     }
 
-    #about .second-sec{
+    #about .second-sec {
         margin: 4rem;
     }
 
@@ -807,7 +809,7 @@ address {
         text-align: center;
     }
 
-    #resume p:nth-child(2){
+    #resume p:nth-child(2) {
         margin: 0 5rem;
     }
 
@@ -819,7 +821,7 @@ address {
         font-size: 1.2rem;
     }
 
-    #projects p:nth-child(2){
+    #projects p:nth-child(2) {
         margin: 0 5rem;
     }
 

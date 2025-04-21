@@ -20,11 +20,11 @@ This is a responsive and interactive personal portfolio website created using HT
 
 akanksha-portfolio<br>
 |<br>
-├── index.html          # Main HTML file<br>
-├── style.css           # Custom CSS styling<br>
-├── script.js           # JavaScript for interactivity<br>
-├── /assets             # Images, icons, and other assets<br>
-└── README.md           # Project documentation (this file)<br>
+├── index.html # Main HTML file<br>
+├── style.css # Custom CSS styling<br>
+├── script.js # JavaScript for interactivity<br>
+├── /assets # Images, icons, and other assets<br>
+└── README.md # Project documentation (this file)<br>
 
 # Built With
 
@@ -42,4 +42,4 @@ akanksha-portfolio<br>
 
 # Visite this
 
-
+Link: https://akankshap-portfolio.netlify.app
