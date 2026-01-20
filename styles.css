@@ -77,9 +77,6 @@ nav a.active {
     width: 100%;
     z-index: 9999;
     background-color: #2d343f;
-    /* Light transparent background */
-    /* backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); */
     box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
     display: none;
     flex-direction: column;
@@ -277,7 +274,6 @@ nav a.active {
     flex-direction: column;
     color: #fff;
     gap: 2rem;
-
 }
 
 .heading {
